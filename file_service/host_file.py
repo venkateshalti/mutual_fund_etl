@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 @app.route('/download')  # path is http://127.0.0.1:5000/download
 def downloadFile ():
+    # set path to location where sales.zip is located
     return send_file(path, as_attachment=True)
 
 if __name__ == '__main__':
