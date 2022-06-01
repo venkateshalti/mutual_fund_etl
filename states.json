@@ -1,0 +1,252 @@
+{
+    "Alabama": {
+        "state_abbreviation": "AL",
+        "state_code": 1,
+        "timezone": "Central Time Zone"
+    },
+    "Alaska": {
+        "state_abbreviation": "AK",
+        "state_code": 2,
+        "timezone": "Alaska Time Zone"
+    },
+    "Arizona": {
+        "state_abbreviation": "AZ",
+        "state_code": 3,
+        "timezone": "Mountain Time Zone"
+    },
+    "Arkansas": {
+        "state_abbreviation": "AR",
+        "state_code": 4,
+        "timezone": "Central Time Zone"
+    },
+    "California": {
+        "state_abbreviation": "CA",
+        "state_code": 5,
+        "timezone": "Pacific Time Zone"
+    },
+    "Colorado": {
+        "state_abbreviation": "CO",
+        "state_code": 6,
+        "timezone": "Mountain Time Zone"
+    },
+    "Connecticut": {
+        "state_abbreviation": "CT",
+        "state_code": 7,
+        "timezone": "Eastern Time Zone"
+    },
+    "Delaware": {
+        "state_abbreviation": "DE",
+        "state_code": 8,
+        "timezone": "Eastern Time Zone"
+    },
+    "Florida": {
+        "state_abbreviation": "FL",
+        "state_code": 9,
+        "timezone": "Eastern Time Zone"
+    },
+    "Georgia": {
+        "state_abbreviation": "GA",
+        "state_code": 10,
+        "timezone": "Eastern Time Zone"
+    },
+    "Hawaii": {
+        "state_abbreviation": "HI",
+        "state_code": 11,
+        "timezone": "Hawaii-Aleutian Time Zone"
+    },
+    "Idaho": {
+        "state_abbreviation": "ID",
+        "state_code": 12,
+        "timezone": "Mountain Time Zone"
+    },
+    "Illinois": {
+        "state_abbreviation": "IL",
+        "state_code": 13,
+        "timezone": "Central Time Zone"
+    },
+    "Indiana": {
+        "state_abbreviation": "IN",
+        "state_code": 14,
+        "timezone": "Eastern Time Zone"
+    },
+    "Iowa": {
+        "state_abbreviation": "IA",
+        "state_code": 15,
+        "timezone": "Central Time Zone"
+    },
+    "Kansas": {
+        "state_abbreviation": "KS",
+        "state_code": 16,
+        "timezone": "Central Time Zone"
+    },
+    "Kentucky": {
+        "state_abbreviation": "KY",
+        "state_code": 17,
+        "timezone": "Eastern Time Zone"
+    },
+    "Louisiana": {
+        "state_abbreviation": "LA",
+        "state_code": 18,
+        "timezone": "Central Time Zone"
+    },
+    "Maine": {
+        "state_abbreviation": "ME",
+        "state_code": 19,
+        "timezone": "Eastern Time Zone"
+    },
+    "Maryland": {
+        "state_abbreviation": "MD",
+        "state_code": 20,
+        "timezone": "Eastern Time Zone"
+    },
+    "Massachusetts": {
+        "state_abbreviation": "MA",
+        "state_code": 21,
+        "timezone": "Eastern Time Zone"
+    },
+    "Michigan": {
+        "state_abbreviation": "MI",
+        "state_code": 22,
+        "timezone": "Eastern Time Zone"
+    },
+    "Minnesota": {
+        "state_abbreviation": "MN",
+        "state_code": 23,
+        "timezone": "Central Time Zone"
+    },
+    "Mississippi": {
+        "state_abbreviation": "MS",
+        "state_code": 24,
+        "timezone": "Central Time Zone"
+    },
+    "Missouri": {
+        "state_abbreviation": "MO",
+        "state_code": 25,
+        "timezone": "Central Time Zone"
+    },
+    "Montana": {
+        "state_abbreviation": "MT",
+        "state_code": 26,
+        "timezone": "Mountain Time Zone"
+    },
+    "Nebraska": {
+        "state_abbreviation": "NE",
+        "state_code": 27,
+        "timezone": "Central Time Zone"
+    },
+    "Nevada": {
+        "state_abbreviation": "NV",
+        "state_code": 28,
+        "timezone": "Pacific Time Zone"
+    },
+    "New Hampshire": {
+        "state_abbreviation": "NH",
+        "state_code": 29,
+        "timezone": "Eastern Time Zone"
+    },
+    "New Jersey": {
+        "state_abbreviation": "NJ",
+        "state_code": 30,
+        "timezone": "Eastern Time Zone"
+    },
+    "New Mexico": {
+        "state_abbreviation": "NM",
+        "state_code": 31,
+        "timezone": "Mountain Time Zone"
+    },
+    "New York": {
+        "state_abbreviation": "NY",
+        "state_code": 32,
+        "timezone": "Eastern Time Zone"
+    },
+    "North Carolina": {
+        "state_abbreviation": "NC",
+        "state_code": 33,
+        "timezone": "Eastern Time Zone"
+    },
+    "North Dakota": {
+        "state_abbreviation": "ND",
+        "state_code": 34,
+        "timezone": "Central Time Zone"
+    },
+    "Ohio": {
+        "state_abbreviation": "OH",
+        "state_code": 35,
+        "timezone": "Eastern Time Zone"
+    },
+    "Oklahoma": {
+        "state_abbreviation": "OK",
+        "state_code": 36,
+        "timezone": "Central Time Zone"
+    },
+    "Oregon": {
+        "state_abbreviation": "OR",
+        "state_code": 37,
+        "timezone": "Pacific Time Zone"
+    },
+    "Pennsylvania": {
+        "state_abbreviation": "PA",
+        "state_code": 38,
+        "timezone": "Eastern Time Zone"
+    },
+    "Rhode Island": {
+        "state_abbreviation": "RI",
+        "state_code": 39,
+        "timezone": "Eastern Time Zone"
+    },
+    "South Carolina": {
+        "state_abbreviation": "SC",
+        "state_code": 40,
+        "timezone": "Eastern Time Zone"
+    },
+    "South Dakota": {
+        "state_abbreviation": "SD",
+        "state_code": 41,
+        "timezone": "Central Time Zone"
+    },
+    "Tennessee": {
+        "state_abbreviation": "TN",
+        "state_code": 42,
+        "timezone": "Eastern Time Zone"
+    },
+    "Texas": {
+        "state_abbreviation": "TX",
+        "state_code": 43,
+        "timezone": "Central Time Zone"
+    },
+    "Utah": {
+        "state_abbreviation": "UT",
+        "state_code": 44,
+        "timezone": "Mountain Time Zone"
+    },
+    "Vermont": {
+        "state_abbreviation": "VT",
+        "state_code": 45,
+        "timezone": "Eastern Time Zone"
+    },
+    "Virginia": {
+        "state_abbreviation": "VA",
+        "state_code": 46,
+        "timezone": "Eastern Time Zone"
+    },
+    "Washington": {
+        "state_abbreviation": "WA",
+        "state_code": 47,
+        "timezone": "Pacific Time Zone"
+    },
+    "West Virginia": {
+        "state_abbreviation": "WV",
+        "state_code": 48,
+        "timezone": "Eastern Time Zone"
+    },
+    "Wisconsin": {
+        "state_abbreviation": "WI",
+        "state_code": 49,
+        "timezone": "Central Time Zone"
+    },
+    "Wyoming": {
+        "state_abbreviation": "WY",
+        "state_code": 50,
+        "timezone": "Mountain Time Zone"
+    }
+}
