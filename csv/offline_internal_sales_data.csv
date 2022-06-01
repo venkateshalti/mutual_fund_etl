@@ -1,0 +1,5 @@
+,customer_id,name,contact_no,mailid,primary_address,secondary_address,policy_type,policy_name,regular_direct,unit_value,units,purchase_date
+0,5,Rupert Grint,123-4567890,rupertg@xyz.com,"Boston, Massachusetts, 02113","Worcester, Massachusetts, 01606",Lumpsum,Large Cap Fund,Regular,180,20,5/28/2022
+1,6,Jason Bourne,123-4567809,bournejason@abc.com,"Orlando, Florida, 32807",,Lumpsum,Bluechip Fund,Regular,250,15,5/27/2022
+2,7,Peter jackson,123-4567908,peterjack@ijk.com,"Austin, Texas, 78710",,Lumpsum,Small Cap Fund,Regular,90,30,5/29/2022
+3,8,Lewis Hamilton,123-4568097,lewham@mno.com,"Philadelphia, Pennsylvania, 19107",,SIP,Multi Cap Fund,Direct,120,45,5/26/2022
